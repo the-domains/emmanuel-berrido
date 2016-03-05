@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T20:17:10.330Z'
-dateModified: '2016-03-05T20:17:08.918Z'
+datePublished: '2016-03-05T20:22:28.690Z'
+dateModified: '2016-03-05T20:22:06.922Z'
 title: List of Works
 author: []
+sourcePath: _posts/2016-03-05-list-of-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-list-of-works.md
-published: true
 url: list-of-works/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c56586ce-b5c8-470b-a898-b4fbead838de.jpg)
+
+# 
+
 # List of Works
 
 ## Asterism (2015)
